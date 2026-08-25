@@ -1,0 +1,11 @@
+# Visual Studio and .NET build output
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+
+# Local Azure Functions settings may contain secrets
+local.settings.json
+
+# Duplicate nested Visual Studio project copy
+Azurefunctiondeveloper/Azurefunctiondeveloper/Azurefunctiondeveloper/
