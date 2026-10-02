@@ -9,6 +9,7 @@ Business Scenario
 
 The InGen Soft decided to bring serverless functionality into their application workload using the Azure function and Storage queue. The idea behind this is that the appearance of the message inside a Queue shall trigger the Function execution. For validation, this task has been assigned to a developer to test this functionality using Visual Studio 2017.
  
+Deplyment Link: https://vercel.com/diyaanna-s-projects/azure-developer-/7rrJRNwg6mFCaWxagxCZZKF151we
 
 Overview 
 
