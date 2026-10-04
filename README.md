@@ -13,7 +13,7 @@ Deplyment Link: https://vercel.com/diyaanna-s-projects/azure-developer-/7rrJRNwg
 
 Screenshots
 
-<img width="1481" height="749" alt="Screenshot 2026-08-23 213208" src="https://github.com/user-attachments/assets/a361508c-9c03-4d99-8454-08b45ead25d2" /><img width="1459" height="753" alt="Screenshot 2026-08-23 212840" src="https://github.com/user-attachments/assets/c678624f-00d8-4b55-b658-0873e5602eb2" />
+
 <img width="1481" height="749" alt="Screenshot 2026-08-23 213208" src="https://github.com/user-attachments/assets/1cbf5630-5944-4abd-ad58-26b7f482512e" />
 
 <img width="1459" height="753" alt="Screenshot 2026-08-23 212840" src="https://github.com/user-attachments/assets/769ece4d-953c-49e9-83e3-90c5029a431e" />
