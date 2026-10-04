@@ -11,6 +11,11 @@ The InGen Soft decided to bring serverless functionality into their application 
  
 Deplyment Link: https://vercel.com/diyaanna-s-projects/azure-developer-/7rrJRNwg6mFCaWxagxCZZKF151we
 
+Screenshots
+
+![Uploading Screenshot 2026-08-23 213208.png…]()
+
+
 Overview 
 
 The main tasks for this exercise are as follows:
