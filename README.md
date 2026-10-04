@@ -1,4 +1,4 @@
-<img width="1481" height="749" alt="Screenshot 2026-08-23 213208" src="https://github.com/user-attachments/assets/b5efcd23-eb59-4d67-9134-d18f52622a38" /># Azure-Developer
+# Azure-Developer
 Azure Function Listening to a Queue 02
 
 Azure Function Listening to a Queue 02
